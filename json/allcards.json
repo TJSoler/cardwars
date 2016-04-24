@@ -3139,4 +3139,364 @@
     "atk": "",
     "def": "",
     "ability": ""
+}, {
+    "name": "Corns Templar",
+    "description": "FLOOP >>> Heal 1 Damage from Corns Templar.",
+    "card_type": "Creature",
+    "landscape": "Cornfield",
+    "cost": "1",
+    "atk": "1",
+    "def": "7",
+    "ability": "FLOOP"
+}, {
+    "name": "Sharp Guy",
+    "description": "FLOOP >>> Deal 2 Damage to target opposing Creature in this Lane.",
+    "card_type": "Creature",
+    "landscape": "Cornfield",
+    "cost": "1",
+    "atk": "1",
+    "def": "5",
+    "ability": "FLOOP"
+}, {
+    "name": "Kernel Queen",
+    "description": "Kernel Queen has +1 ATK for each Flooped Creature you control.",
+    "card_type": "Creature",
+    "landscape": "Cornfield",
+    "cost": "1",
+    "atk": "1",
+    "def": "6",
+    "ability": "Continuous"
+}, {
+    "name": "Lumbercaddy",
+    "description": "FLOOP >>> Move target Building you control to any Landscape without one.",
+    "card_type": "Creature",
+    "landscape": "Cornfield",
+    "cost": "1",
+    "atk": "2",
+    "def": "6",
+    "ability": "FLOOP"
+}, {
+    "name": "Husker Champion
+    "description": "Husker Champion has +2 ATK and +2 DEF if you control a Building on this Landscape.",
+    "card_type": "Creature",
+    "landscape": "Cornfield",
+    "cost": "1",
+    "atk": "1",
+    "def": "4",
+    "ability": "Continuous"
+}, {
+    "name": "Druid of the Cob",
+    "description": "Flooped Creatures you control have +1 ATK.",
+    "card_type": "Creature",
+    "landscape": "Cornfield",
+    "cost": "1",
+    "atk": "1",
+    "def": "8",
+    "ability": "Continuous"
+}, {
+    "name": "Popcorn Butteredfly",
+    "description": "FLOOP >>> Draw a card for each Building you control.",
+    "card_type": "Creature",
+    "landscape": "Cornfield",
+    "cost": "1",
+    "atk": "1",
+    "def": "5",
+    "ability": "FLOOP"
+}, {
+    "name": "Helping Hand",
+    "description": "FLOOP >>> Return a Building from your discard pile to your hand.",
+    "card_type": "Creature",
+    "landscape": "Rainbow",
+    "cost": "0",
+    "atk": "1",
+    "def": "4",
+    "ability": "FLOOP"
+}, {
+    "name": "Hunkclops",
+    "description": "",
+    "card_type": "Creature",
+    "landscape": "Rainbow",
+    "cost": "1",
+    "atk": "3",
+    "def": "3",
+    "ability": ""
+}, {
+    "name": "Burly Lumberjack",
+    "description": "You may play additional Buildings onto this Landscape.",
+    "card_type": "Creature",
+    "landscape": "Cornfield",
+    "cost": "2",
+    "atk": "2",
+    "def": "9",
+    "ability": "Continuous"
+}, {
+    "name": "Husker Valkyrie",
+    "description": "Husker Valkyrie has +2 ATK and +2 DEF if you control a Building on this Landscape.",
+    "card_type": "Creature",
+    "landscape": "Cornfield",
+    "cost": "2",
+    "atk": "2",
+    "def": "6",
+    "ability": "Continuous"
+}, {
+    "name": "Tough Lumberjill",
+    "description": "When Tough Lumberjill enters play, deal 1 Damage to your opponent for each Building you control.",
+    "card_type": "Creature",
+    "landscape": "Cornfield",
+    "cost": "2",
+    "atk": "3",
+    "def": "6",
+    "ability": "Entering Play"
+}, {
+    "name": "Friendship Bracelet",
+    "description": "Swap any amount of Damage between two Creatures you control.",
+    "card_type": "Spell",
+    "landscape": "Rainbow",
+    "cost": "0",
+    "atk": "",
+    "def": "",
+    "ability": ""
+}, {
+    "name": "Singing Sword",
+    "description": "Target Creature has +1 ATK this turn for every 2 cards you have drawn this turn.",
+    "card_type": "Spell",
+    "landscape": "Rainbow",
+    "cost": "0",
+    "atk": "",
+    "def": "",
+    "ability": ""
+}, {
+    "name": "Sword Bouquet",
+    "description": "Deal 1 Damage to target Creature for every card you have drawn this turn.",
+    "card_type": "Spell",
+    "landscape": "Rainbow",
+    "cost": "0",
+    "atk": "",
+    "def": "",
+    "ability": ""
+}, {
+    "name": "Glorious Gramophone",
+    "description": "Draw 4 cards, then discard 2 cards.",
+    "card_type": "Spell",
+    "landscape": "Blue Plains",
+    "cost": "1",
+    "atk": "",
+    "def": "",
+    "ability": ""
+}, {
+    "name": "Vampire Lord",
+    "description": "When Vampire Lord deals damage, heal that much Damage from him.",
+    "card_type": "Creature",
+    "landscape": "Rainbow",
+    "cost": "2",
+    "atk": "1",
+    "def": "8",
+    "ability": "???"
+}, {
+    "name": "Emboldened Retriever",
+    "description": "Each time Eboldened Retriever attacks, you may deaw a card. Much ball. Wow.",
+    "card_type": "Creature",
+    "landscape": "Blue Plains",
+    "cost": "2",
+    "atk": "2",
+    "def": "7",
+    "ability": "???"
+}, {
+    "name": "Crazy Cat Lady",
+    "description": "Rainbow Creatures you control have +1 ATK.",
+    "card_type": "Creature",
+    "landscape": "Blue Plains",
+    "cost": "2",
+    "atk": "1",
+    "def": "10",
+    "ability": "???"
+}, {
+    "name": "Impossible Possum",
+    "description": "When this card is placed into your discard pile from anywhere, you may discard a card from your hand to return Impossible Possum to your hand.",
+    "card_type": "Creature",
+    "landscape": "Blue Plains",
+    "cost": "2",
+    "atk": "2",
+    "def": "8",
+    "ability": "???"
+}, {
+    "name": "Woadic Enchantress",
+    "description": "Creatures in this Lane cannot use Floop abilities.",
+    "card_type": "Creature",
+    "landscape": "Blue Plains",
+    "cost": "2",
+    "atk": "2",
+    "def": "10",
+    "ability": "???"
+}, {
+    "name": "Void Thimble",
+    "description": "Lose 2 Hit Points, gain 1 Action.",
+    "card_type": "Spell",
+    "landscape": "Rainbow",
+    "cost": "0",
+    "atk": "",
+    "def": "",
+    "ability": ""
+}, {
+    "name": "Furious Furor",
+    "description": "Target Creature has +2 ATK this turn for each Flooped Creature you control.",
+    "card_type": "Spell",
+    "landscape": "Cornfield",
+    "cost": "1",
+    "atk": "",
+    "def": "",
+    "ability": ""
+}, {
+    "name": "Harvest Moon",
+    "description": "Put a Building from your discard pile into play.",
+    "card_type": "Spell",
+    "landscape": "Cornfield",
+    "cost": "2",
+    "atk": "",
+    "def": "",
+    "ability": ""
+}, {
+    "name": "Archer Danica",
+    "description": "Destroy a Building you control and Floop >>> Deal 3 damage to each opposing Creature.",
+    "card_type": "Creature",
+    "landscape": "Cornfield",
+    "cost": "2",
+    "atk": "1",
+    "def": "6",
+    "ability": "FLOOP"
+}, {
+    "name": "Pied Piper",
+    "description": "When Pied Piper attacks an opposing Creature, you may have a Flooped Creature you control attack it instead.",
+    "card_type": "Creature",
+    "landscape": "Cornfield",
+    "cost": "2",
+    "atk": "1",
+    "def": "9",
+    "ability": "???"
+}, {
+    "name": "Tornado Wall Of Fire",
+    "description": "FLOOP >>> Tornado Wall of Fire has +3 ATK while Flooped.",
+    "card_type": "Creature",
+    "landscape": "Cornfield",
+    "cost": "2",
+    "atk": "0",
+    "def": "10",
+    "ability": "???"
+}, {
+    "name": "Loonely Panda",
+    "description": "When Lonely Panda enters play, if you control no other Creatures, draw a card.",
+    "card_type": "Creature",
+    "landscape": "Blue Plains",
+    "cost": "1",
+    "atk": "1",
+    "def": "8",
+    "ability": "???"
+}, {
+    "name": "Infant Scholar",
+    "description": "If you played one or more Rainbow cards this turn, Infant Scholar has +3 ATK this turn.",
+    "card_type": "Creature",
+    "landscape": "Blue Plains",
+    "cost": "1",
+    "atk": "1",
+    "def": "6",
+    "ability": "???"
+}, {
+    "name": "Tiny Elephant",
+    "description": "While in play, Tiny Elephant is also a Rainbow Creature (in addition to Blue Plains).",
+    "card_type": "Creature",
+    "landscape": "Blue Plains",
+    "cost": "1",
+    "atk": "2",
+    "def": "6",
+    "ability": "???"
+}, {
+    "name": "Psionic Swashbuckler",
+    "description": "When Psionic Swashbuckler enters play, you may deal 3 Damage to target Flooped Creature",
+    "card_type": "Creature",
+    "landscape": "Blue Plains",
+    "cost": "1",
+    "atk": "2",
+    "def": "6",
+    "ability": "???"
+}, {
+    "name": "Business Dog",
+    "description": "Business Dog has +2 ATK this turn for each card you have played \"Dog\" or \"Puppy\" in its tile this turn.",
+    "card_type": "Creature",
+    "landscape": "Blue Plains",
+    "cost": "1",
+    "atk": "1",
+    "def": "6",
+    "ability": "???"
+}, {
+    "name": "Fiddling Ferret",
+    "description": "FLOOP >>> Draw a card, and then discard a card. If you discard a Rainbow card this way, gain 1 Action.",
+    "card_type": "Creature",
+    "landscape": "Blue Plains",
+    "cost": "1",
+    "atk": "1",
+    "def": "6",
+    "ability": "FLOOP"
+}, {
+    "name": "Pony",
+    "description": "",
+    "card_type": "Creature",
+    "landscape": "Rainbow",
+    "cost": "0",
+    "atk": "1",
+    "def": "5",
+    "ability": ""
+}, {
+    "name": "The Dog",
+    "description": "FLOOP >>> Opposing Buildings in this Lane are blank while The Dog is Flooped \"Woof.\"",
+    "card_type": "Creature",
+    "landscape": "Rainbow",
+    "cost": "1",
+    "atk": "1",
+    "def": "7",
+    "ability": ""
+}, {
+    "name": "Celestial Fortress",
+    "description": "The opposing Creature in this Lane has -2 DEF.",
+    "card_type": "Building",
+    "landscape": "Rainbow",
+    "cost": "1",
+    "atk": "",
+    "def": "",
+    "ability": ""
+}, {
+    "name": "Blood Castle",
+    "description": "Each time an opposing Creature in this Lane takes Damage, increase the amount by 1.",
+    "card_type": "Building",
+    "landscape": "Rainbow",
+    "cost": "1",
+    "atk": "",
+    "def": "",
+    "ability": ""
+}, {
+    "name": "Farmhouse",
+    "description": "Farmhouse counts as an additional Cornfield Landscape you control.",
+    "card_type": "Building",
+    "landscape": "Cornfield",
+    "cost": "1",
+    "atk": "",
+    "def": "",
+    "ability": ""
+}, {
+    "name": "Fionna",
+    "description": "While you control only one Landscape type, your Rainbow Creatures have +1 ATK.",
+    "card_type": "Hero",
+    "landscape": "",
+    "cost": "",
+    "atk": "",
+    "def": "",
+    "ability": ""
+}, {
+    "name": "Cake",
+    "description": "Each time a Building enters play under your control, heal 2 Damage from each Creature you control with a Building on its Landscape.",
+    "card_type": "Hero",
+    "landscape": "",
+    "cost": "",
+    "atk": "",
+    "def": "",
+    "ability": ""
 }]
