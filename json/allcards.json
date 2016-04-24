@@ -3176,7 +3176,7 @@
     "def": "6",
     "ability": "FLOOP"
 }, {
-    "name": "Husker Champion
+    "name": "Husker Champion",
     "description": "Husker Champion has +2 ATK and +2 DEF if you control a Building on this Landscape.",
     "card_type": "Creature",
     "landscape": "Cornfield",
