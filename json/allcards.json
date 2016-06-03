@@ -2145,7 +2145,7 @@
     "description": "You may flip one of your Landscapes face up, and you may move one of your Buildings to one of your Lanes without one.",
     "card_type": "Spell",
     "landscape": "Rainbow",
-    "cost": "2",
+    "cost": "0",
     "atk": "",
     "def": "",
     "ability": ""
