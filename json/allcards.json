@@ -3499,4 +3499,40 @@
     "atk": "",
     "def": "",
     "ability": ""
+}, {
+    "name": "Charlie",
+    "description": "Once during your turn, you may move a Creature you control to an adjacent empty Landscape.",
+    "card_type": "Hero",
+    "landscape": "",
+    "cost": "",
+    "atk": "",
+    "def": "",
+    "ability": ""
+}, {
+    "name": "Jake",
+    "description": "Once during your turn, when a Creature you control damages an opponent, you may deal 1 Damage to target Creature in one of your Lanes.",
+    "card_type": "Hero",
+    "landscape": "",
+    "cost": "",
+    "atk": "",
+    "def": "",
+    "ability": ""
+}, {
+    "name": "Grand Prix",
+    "description": "Once during your turn, you may put a Creature you played this turn back into your hand, then play it for free and put 3 Damage on it.",
+    "card_type": "Hero",
+    "landscape": "",
+    "cost": "",
+    "atk": "",
+    "def": "",
+    "ability": ""
+}, {
+    "name": "Moniker",
+    "description": "Once during your turn, you may ready a Flooped Creature.",
+    "card_type": "Hero",
+    "landscape": "",
+    "cost": "",
+    "atk": "",
+    "def": "",
+    "ability": ""
 }]
