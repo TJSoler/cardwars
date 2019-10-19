@@ -3500,7 +3500,7 @@
     "def": "",
     "ability": ""
 }, {
-    "name": "Clone",
+    "name": "Royal Revelry",
     "description": "",
     "card_type": "Spell",
     "landscape": "Rainbow",
@@ -3508,4 +3508,13 @@
     "atk": "",
     "def": "",
     "ability": ""
+}, {
+  "name": "Clone",
+  "description": "",
+  "card_type": "Spell",
+  "landscape": "Rainbow",
+  "cost": "",
+  "atk": "",
+  "def": "",
+  "ability": ""
 }]
